@@ -1,0 +1,10 @@
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 4\LabSheet4_Q4\LabSheet4_Q4\bin\Debug\LabSheet4_Q4.exe.config
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 4\LabSheet4_Q4\LabSheet4_Q4\bin\Debug\LabSheet4_Q4.exe
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 4\LabSheet4_Q4\LabSheet4_Q4\bin\Debug\LabSheet4_Q4.pdb
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 4\LabSheet4_Q4\LabSheet4_Q4\obj\Debug\LabSheet4_Q4.csproj.AssemblyReference.cache
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 4\LabSheet4_Q4\LabSheet4_Q4\obj\Debug\LabSheet4_Q4.Form1.resources
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 4\LabSheet4_Q4\LabSheet4_Q4\obj\Debug\LabSheet4_Q4.Properties.Resources.resources
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 4\LabSheet4_Q4\LabSheet4_Q4\obj\Debug\LabSheet4_Q4.csproj.GenerateResource.cache
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 4\LabSheet4_Q4\LabSheet4_Q4\obj\Debug\LabSheet4_Q4.csproj.CoreCompileInputs.cache
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 4\LabSheet4_Q4\LabSheet4_Q4\obj\Debug\LabSheet4_Q4.exe
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 4\LabSheet4_Q4\LabSheet4_Q4\obj\Debug\LabSheet4_Q4.pdb
