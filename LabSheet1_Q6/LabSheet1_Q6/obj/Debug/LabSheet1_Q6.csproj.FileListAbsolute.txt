@@ -1,0 +1,7 @@
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 1\LabSheet1_Q6\LabSheet1_Q6\LabSheet1_Q6\bin\Debug\LabSheet1_Q6.exe.config
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 1\LabSheet1_Q6\LabSheet1_Q6\LabSheet1_Q6\bin\Debug\LabSheet1_Q6.exe
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 1\LabSheet1_Q6\LabSheet1_Q6\LabSheet1_Q6\bin\Debug\LabSheet1_Q6.pdb
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 1\LabSheet1_Q6\LabSheet1_Q6\LabSheet1_Q6\obj\Debug\LabSheet1_Q6.csproj.AssemblyReference.cache
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 1\LabSheet1_Q6\LabSheet1_Q6\LabSheet1_Q6\obj\Debug\LabSheet1_Q6.csproj.CoreCompileInputs.cache
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 1\LabSheet1_Q6\LabSheet1_Q6\LabSheet1_Q6\obj\Debug\LabSheet1_Q6.exe
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 1\LabSheet1_Q6\LabSheet1_Q6\LabSheet1_Q6\obj\Debug\LabSheet1_Q6.pdb
