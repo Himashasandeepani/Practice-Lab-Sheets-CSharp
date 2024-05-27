@@ -1,0 +1,11 @@
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\bin\Debug\LabSheet5_Q2.exe.config
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\bin\Debug\LabSheet5_Q2.exe
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\bin\Debug\LabSheet5_Q2.pdb
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\obj\Debug\LabSheet5_Q2.csproj.AssemblyReference.cache
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\obj\Debug\LabSheet5_Q2.Form1.resources
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\obj\Debug\LabSheet5_Q2.Form2.resources
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\obj\Debug\LabSheet5_Q2.Properties.Resources.resources
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\obj\Debug\LabSheet5_Q2.csproj.GenerateResource.cache
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\obj\Debug\LabSheet5_Q2.csproj.CoreCompileInputs.cache
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\obj\Debug\LabSheet5_Q2.exe
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 5\LabSheet5_Q2\LabSheet5_Q2\obj\Debug\LabSheet5_Q2.pdb
