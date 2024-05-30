@@ -1,0 +1,2 @@
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 7\LabSheet7_Q2\LabSheet7_Q2\obj\Debug\LabSheet7_Q2.csproj.AssemblyReference.cache
+D:\Documents\NSBM\1 year\3 Semester\Notes\C#\Practise C#\Lab Sheets\Lab Sheet 7\LabSheet7_Q2\LabSheet7_Q2\obj\Debug\LabSheet7_Q2.csproj.CoreCompileInputs.cache
